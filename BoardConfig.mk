@@ -18,7 +18,7 @@
 TARGET_OTA_ASSERT_DEVICE := SM-N900P,hltespr
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8974_sec_hlte_spr_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8974_sec_hlte_eur_defconfig
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
